@@ -9,8 +9,8 @@ A self-hosted, multi-agent platform that turns business documents, code and data
 traceable requirements and GitHub issues. AGPL-3.0.
 
 - Site: [openzigs.com/metis](https://openzigs.com/metis/)
-- Repository: [openzigs/metis](https://github.com/openzigs/metis)
-- Try it: follow the [local quick start](https://github.com/openzigs/metis/blob/main/docs/LOCAL_QUICKSTART.md)
+- Repository: [openzigs/openzigs-metis](https://github.com/openzigs/openzigs-metis)
+- Try it: follow the [local quick start](https://github.com/openzigs/openzigs-metis/blob/main/docs/LOCAL_QUICKSTART.md)
   (`pnpm install`, `pnpm bootstrap`, `pnpm dev`).
 
 ### [On Your Left](https://openzigs.com/on-your-left/)
