@@ -1,17 +1,7 @@
 # OpenZigs
 
-OpenZigs makes open-source software you run yourself. There are three projects, each free and
+OpenZigs makes open-source software you run yourself. There are two projects, each free and
 developed in the open on GitHub.
-
-### [Metis](https://openzigs.com/metis/)
-
-A self-hosted, multi-agent platform that turns business documents, code and database schemas into
-traceable requirements and GitHub issues. AGPL-3.0.
-
-- Site: [openzigs.com/metis](https://openzigs.com/metis/)
-- Repository: [openzigs/openzigs-metis](https://github.com/openzigs/openzigs-metis)
-- Try it: follow the [local quick start](https://github.com/openzigs/openzigs-metis/blob/main/docs/LOCAL_QUICKSTART.md)
-  (`pnpm install`, `pnpm bootstrap`, `pnpm dev`).
 
 ### [On Your Left](https://openzigs.com/on-your-left/)
 
